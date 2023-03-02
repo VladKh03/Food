@@ -28,4 +28,3 @@ window.addEventListener('DOMContentLoaded', function() {
 		field: '.offer__slider-inner'
 	});
 });
-// npx json-server --watch db.json
