@@ -1,11 +1,11 @@
 # food
-console commands in VS code
+Console commands in VS code
 
-to load all node_modules:
+To load all node_modules:
 
 		npm i    
-to run json-server:
+To run json-server:
 
 		npx json-server --watch db.json
 		
-then run live server
+For AJAX required: local server(MAMP/OpenServer/..etc)
